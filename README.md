@@ -4,15 +4,15 @@ Repositório dedicado ao registro de evolução prática e armazenamento das res
 
 ---
 
-## Conteúdo
+## Conteúdo e Progresso
 
 ### Curso em Vídeo (Prof. Gustavo Guanabara)
-- **Mundo 1:** Fundamentos de Python
-- **Mundo 2:** Estruturas de Controle
-- **Mundo 3:** Estruturas Compostas
+- [x] **Mundo 1:** Fundamentos de Python
+- [ ] **Mundo 2:** Estruturas de Controle (Em andamento)
+- [ ] **Mundo 3:** Estruturas Compostas
 
 ### freeCodeCamp
-- **Python Certification** 
+- [ ] **Python Certification** (Em andamento)
 
 ---
 
