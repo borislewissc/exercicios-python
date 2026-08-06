@@ -32,5 +32,7 @@ exercicios-python/
 │   ├── mundo-2/
 │   └── mundo-3/
 └── freecodecamp/
-    ├── exercicio_01.py
+    ├── assets/
+    │   └── travel_weather_planner_fluxograma.png
+    ├── travel_weather_planner.py
     └── ...
